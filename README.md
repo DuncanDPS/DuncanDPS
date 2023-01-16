@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoneROKIE
 - 👀 I’m interested in backend, linux, postgresql, and android development
-- 🌱 I’m currently learning python 3 and postgresql, because i want to be a backend dev
+- 🌱 I’m currently learning python and postgresql, django, because i want to be a backend dev
 - 💞️ I’m looking to collaborate on anything i can ^_^
 - 📫 How to reach me ...
 
