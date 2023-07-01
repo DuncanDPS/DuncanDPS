@@ -23,15 +23,13 @@
   <li><img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS" height="24"> CSS (basic level)</li>
 </ul>
 
-
-🤝 **Looking to collaborate** on exciting projects and contribute to the coding community.
-
-📫 **How to reach me**: You can reach out to me at lonerokiecoder@gmail.com.
-
 ⭐️ **Interests**
 
 [![Fedora](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/120px-Fedora_logo.svg.png)](https://getfedora.org/)
 
+🤝 **Looking to collaborate** on exciting projects and contribute to the coding community.
+
+📫 **How to reach me**: You can reach out to me at lonerokiecoder@gmail.com.
 
 
 ## Connect with me
