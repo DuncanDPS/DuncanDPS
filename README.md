@@ -15,7 +15,7 @@
 <ul>
   <li><img src="https://img.icons8.com/color/32/000000/python.png" alt="Python" height="24"> Python</li>
   <li><img src="https://img.icons8.com/color/32/000000/django.png" alt="Django" height="24"> Django</li>
-  <li><img src="https://img.icons8.com/color/32/000000/postgresql.png" alt="PostgreSQL" height="24"> PostgreSQL</li>
+  <li><img src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png" alt="PostgreSQL" height="24"> PostgreSQL</li>
   <li><img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png" alt="Java" height="24"> Java POO</li>
   <li><img src="https://img.icons8.com/color/32/000000/spring-logo.png" alt="Spring Boot" height="24"> Sprintboot (currently learning)</li>
   <li><img src="https://img.icons8.com/color/32/000000/django.png" alt="Django Rest Framework" height="24"> Django Rest Framework (currently learning)</li>
