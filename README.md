@@ -17,6 +17,9 @@
 <li>Postgresql</li>
 <li>Java POO</li>
 <li>Sprintboot (currently learning)</li>
+<li>Django Rest Framework (currently learning)</li>
+<li>HTML</li>
+<li>CSS (basic level)</li>
 </ul>
 
 🤝 **Looking to collaborate** on exciting projects and contribute to the coding community.
