@@ -21,7 +21,7 @@
 
 🤝 **Looking to collaborate** on exciting projects and contribute to the coding community.
 
-📫 **How to reach me**: You can reach out to me at dmp12duncan@gmail.com.
+📫 **How to reach me**: You can reach out to me at lonerokiecoder@gmail.com.
 
 ## Connect with me
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/duncan-morera-perez-6646b3251/)
