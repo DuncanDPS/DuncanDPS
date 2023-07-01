@@ -26,6 +26,12 @@
 
 📫 **How to reach me**: You can reach out to me at lonerokiecoder@gmail.com.
 
+**Interests**
+
+[![Fedora](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/120px-Fedora_logo.svg.png)](https://getfedora.org/)
+
+
+
 ## Connect with me
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/duncan-morera-perez-6646b3251/)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/LoneROKIECoder)
