@@ -11,16 +11,18 @@
 <h1></h1>
 
 ⚔️ **SKILLS**:
+
 <ul>
-<li>Python</li>
-<li>Django</li>
-<li>Postgresql</li>
-<li>Java POO</li>
-<li>Sprintboot (currently learning)</li>
-<li>Django Rest Framework (currently learning)</li>
-<li>HTML</li>
-<li>CSS (basic level)</li>
+  <li><img src="https://img.icons8.com/color/32/000000/python.png" alt="Python" height="24"> Python</li>
+  <li><img src="https://img.icons8.com/color/32/000000/django.png" alt="Django" height="24"> Django</li>
+  <li><img src="https://img.icons8.com/color/32/000000/postgresql.png" alt="PostgreSQL" height="24"> PostgreSQL</li>
+  <li><img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png" alt="Java" height="24"> Java POO</li>
+  <li><img src="https://img.icons8.com/color/32/000000/spring-logo.png" alt="Spring Boot" height="24"> Sprintboot (currently learning)</li>
+  <li><img src="https://img.icons8.com/color/32/000000/django.png" alt="Django Rest Framework" height="24"> Django Rest Framework (currently learning)</li>
+  <li><img src="https://img.icons8.com/color/32/000000/html-5.png" alt="HTML" height="24"> HTML</li>
+  <li><img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS" height="24"> CSS (basic level)</li>
 </ul>
+
 
 🤝 **Looking to collaborate** on exciting projects and contribute to the coding community.
 
