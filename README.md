@@ -4,13 +4,13 @@
   </a>
 </p>
 
-<h3 align="center">Hi, 👋 I'm LoneROKIE</h3>
+**<h3 align="center">Hi, 👋 I'm LoneROKIE</h3>**
 <p>
 ----Hey there!, I am a programming enthusiast with a passion for backend development. I'm always eager to learn and explore interesting concepts in the world of coding. Whether it's tackling new challenges or expanding my skill set, I find joy in the process of continuous learning. Let's connect and share our coding adventures together! 💻✨----
 </p>
 <h1></h1>
 
-⚔️ SKILLS:
+⚔️ **SKILLS**:
 <ul>
 <li>Python</li>
 <li>Django</li>
