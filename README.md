@@ -14,20 +14,19 @@
 
 <ul>
   <li><img src="https://img.icons8.com/color/32/000000/python.png" alt="Python" height="24"> Python</li>
-  <li><img src="https://img.icons8.com/color/32/000000/django.png" alt="Django" height="24"> Django</li>
   <li><img src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png" alt="PostgreSQL" height="24"> PostgreSQL</li>
   <li><img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png" alt="Java" height="24"> Java POO</li>
-  <li><img src="https://img.icons8.com/color/32/000000/spring-logo.png" alt="Spring Boot" height="24"> Sprintboot (currently learning)</li>
-  <li><img src="https://img.icons8.com/color/32/000000/django.png" alt="Django Rest Framework" height="24"> Django Rest Framework (currently learning)</li>
   <li><img src="https://img.icons8.com/color/32/000000/html-5.png" alt="HTML" height="24"> HTML</li>
   <li><img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS" height="24"> CSS (basic level)</li>
-  <li><img width="96" height="96" src="https://img.icons8.com/nolan/96/c-sharp-logo.png" alt="c-sharp-logo"/> C# (currently learning)</li>
+  <li><img width="64" height="64" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/> C# (currently learning)</li>
 
 </ul>
 
 ⭐️ **Interests**
 
 [![Fedora](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/120px-Fedora_logo.svg.png)](https://getfedora.org/)
+<br>
+<img width="96" height="96" src="https://img.icons8.com/color/96/microsoft.png" alt="microsoft"/>
 
 🤝 **Looking to collaborate** on exciting projects and contribute to the coding community.
 
