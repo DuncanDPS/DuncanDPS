@@ -23,7 +23,7 @@
 </ul>
 
 ⭐️ **Interests**
-
+ [![Fedora](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/120px-Fedora_logo.svg.png)](https://getfedora.org/)
 <p> [![Fedora](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/120px-Fedora_logo.svg.png)](https://getfedora.org/)     <img width="96" height="96" src="https://img.icons8.com/color/96/microsoft.png" alt="microsoft"/> </p> 
 
 
