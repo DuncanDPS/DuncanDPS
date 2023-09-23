@@ -18,7 +18,7 @@
   <li><img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png" alt="Java" height="24"> Java POO</li>
   <li><img src="https://img.icons8.com/color/32/000000/html-5.png" alt="HTML" height="24"> HTML</li>
   <li><img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS" height="24"> CSS (basic level)</li>
-  <li><img width="64" height="64" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/> C# (currently learning)</li>
+  <li><img height="24" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/> C# (currently learning)</li>
 
 </ul>
 
