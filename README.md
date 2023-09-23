@@ -21,7 +21,7 @@
   <li><img src="https://img.icons8.com/color/32/000000/django.png" alt="Django Rest Framework" height="24"> Django Rest Framework (currently learning)</li>
   <li><img src="https://img.icons8.com/color/32/000000/html-5.png" alt="HTML" height="24"> HTML</li>
   <li><img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS" height="24"> CSS (basic level)</li>
-  <li><img src="https://icons8.com/icon/Fycm8TUhWmFU/c-sharp-logo](https://cdn.coursehunter.net/category/c-sharp-c.png)" alt="C#" height="24"> C# (currently learning)</li>
+  <li><img src="https://img.icons8.com/color/32/000000/c-sharp-logo" alt="C#" height="24"> C# (currently learning)</li>
 
 </ul>
 
