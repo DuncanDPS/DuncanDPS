@@ -12,12 +12,12 @@
 
 ⚔️ **Languages and Tools:**
 
-<p align="left"> <a target="blank" href="https://learn.microsoft.com/es-es/dotnet/csharp/"> <img height="40" width="40" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>  </a> 
-                 <a target="blank" href="https://www.python.org/"><img src="https://img.icons8.com/color/32/000000/python.png" alt="Python" width="40" height="40"></a>
-                <a target="blank" href="https://www.java.com/es/"><img src="https://freepngimg.com/thumb/java/3-2-java-free-download-png.png" alt="Java" width="40" height="40"></a>
-                <a target="blank" href="https://html.spec.whatwg.org/"><img src="https://img.icons8.com/color/32/000000/html-5.png" alt="HTML" width="40" height="40"></a>
-                <a target="blank" href="[https://html.spec.whatwg.org/](https://developer.mozilla.org/es/docs/Web/CSS)"><img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS" width="40" height="40"></a>
-               <a href="[https://www.freeiconspng.com/img/11352](https://www.microsoft.com/es-mx/sql-server/sql-server-downloads)"><img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="40   height="40" alt="Free High quality Sql Server Icon"/></a>
+<p align="left"> <a target="_blank" href="https://learn.microsoft.com/es-es/dotnet/csharp/"> <img height="40" width="40" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>  </a> 
+                <a target="_blank" href="https://www.python.org/"><img src="https://img.icons8.com/color/32/000000/python.png" alt="Python" width="40" height="40"></a>
+                <a target="_blank" href="https://www.java.com/es/"><img src="https://freepngimg.com/thumb/java/3-2-java-free-download-png.png" alt="Java" width="40" height="40"></a>
+                <a target="_blank" href="https://html.spec.whatwg.org/"><img src="https://img.icons8.com/color/32/000000/html-5.png" alt="HTML" width="40" height="40"></a>
+                <a target="_blank" href="[https://html.spec.whatwg.org/](https://developer.mozilla.org/es/docs/Web/CSS)"><img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS" width="40" height="40"></a>
+                <a target="_blank" href="[https://www.freeiconspng.com/img/11352](https://www.microsoft.com/es-mx/sql-server/sql-server-downloads)"><img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="40   height="40" alt="Free High quality Sql Server Icon"/></a>
 </p>
 
 
