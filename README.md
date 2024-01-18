@@ -28,6 +28,12 @@
            <img width="100" height="100" src="https://img.icons8.com/color/96/microsoft.png" alt="microsoft"/>
 
 
+### Stats
+[![Duncan's stats](https://github-readme-stats.vercel.app/api?username=LoneROKIE&show_icons=true&theme=react)](https://github.com/LoneROKIE/github-readme-stats)
+
+### Most used languages
+![Duncan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoneROKIE&theme=react&layout=compact&hide=HTML)
+
 
 🤝 **Looking to collaborate** on exciting projects and contribute to the coding community.
 
