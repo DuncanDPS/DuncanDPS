@@ -22,7 +22,7 @@
                 <a target="_blank" href="[https://www.freeiconspng.com/img/11352](https://www.microsoft.com/es-mx/sql-server/sql-server-downloads)"><img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="40   height="40" alt="Free High quality Sql Server Icon"/></a>
 </p>
 
-
+<!--
 ⭐️ **Interests**
 
 [![Fedora](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/100px-Fedora_logo.svg.png)](https://getfedora.org/)
@@ -32,7 +32,7 @@
 
 ### Stats
 [![Duncan's stats](https://github-readme-stats.vercel.app/api?username=LoneROKIE&show_icons=true&theme=react)](https://github.com/LoneROKIE/github-readme-stats)   ![Duncan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoneROKIE&theme=react&layout=compact&hide=HTML)
-
+-->
 ## Connect with me
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/duncan-morera-perez-6646b3251/)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/LoneROKIECoder)
