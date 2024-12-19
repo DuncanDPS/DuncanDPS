@@ -35,7 +35,6 @@
 [![Duncan's stats](https://github-readme-stats.vercel.app/api?username=LoneROKIE&show_icons=true&theme=react)](https://github.com/LoneROKIE/github-readme-stats)   ![Duncan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoneROKIE&theme=react&layout=compact&hide=HTML)
 -->
 ## Connect with me
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/duncan-morera-perez-6646b3251/)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/LoneROKIECoder)
 
 <!---
