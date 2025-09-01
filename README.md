@@ -5,5 +5,5 @@
 
 
 **<h3 align="center">Hi, 👋 I'm Duncan</h3>**
-<p align="center">A Junior Backend Developer and BSC student from Costa Rica. Right Now Im Learning Blazor !!!</p>
+<p align="center">A Junior Backend Developer and BCS student from Costa Rica. Right Now Im Learning Blazor !!!</p>
 <h1></h1>
