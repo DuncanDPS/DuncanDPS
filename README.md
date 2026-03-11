@@ -1,3 +1,4 @@
+```
 # Duncan <3
 ==================
 
@@ -26,3 +27,4 @@ Working on it..... ;-)
 Thanks for stopping by! :)
 
 Feel free to say hi.
+```
