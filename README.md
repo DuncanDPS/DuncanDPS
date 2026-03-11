@@ -1,9 +1,28 @@
-<p align="center">
-<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQ5bXRpcmVmNDR3Nno1dXJuZWNjdXQ4OXA1MXc1ajltNzB5djM0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qn74oPyaKYBpVWdA7t/giphy.gif"> -->
-  
-</p>
+# Duncan <3
+==================
 
+Junior Backend Developer specializing in .NET and modular infrastructure.
+Pragmatic and resilient, always optimizing systems and learning continuously.
 
-**<h3 align="center">Hi, 👋 I'm Duncan</h3>**
-<p align="center">A Junior Backend Developer and BCS student from Costa Rica. !!!</p>
-<h1></h1>
+---------------
+Connect With Me
+
+» Email         → duncandmp12@gmail.com
+
+--------------
+Skills & Tools
+
+» Backend:      C#, Asp.Net Core, .Net 6+
+» Frontend:     Javascript, HTML5, CSS3, Blazor
+» Databases:    MySQL, Sql Server, Sqlite
+» DevOps:       Docker, Git, Linux, Postman.
+
+-----------------
+Featured Projects
+
+Working on it..... ;-)
+
+--------------------------
+Thanks for stopping by! :)
+
+Feel free to say hi.
