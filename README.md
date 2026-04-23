@@ -24,7 +24,8 @@ Featured Projects
   ✦ Full stack web application for file management in a local cloud.
    It allows you to upload, organize, consult, download and delete files,
    in addition to grouping them into categories or logical folders.
-  ✦ Links: https://github.com/DuncanDPS/LocalVault
+  ✦ Links: [LocalVault](https://github.com/DuncanDPS/LocalVault)
+
 
 --------------------------
 Thanks for stopping by! :)
