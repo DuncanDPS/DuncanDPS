@@ -13,7 +13,7 @@ Connect With Me
 --------------
 Skills & Tools
 
-» Backend:      C#, Asp.Net Core, .Net 6+
+» Backend:      C#, Asp.Net Core, .Net 6,8,10
 » Frontend:     Javascript, HTML5, CSS3, Blazor
 » Databases:    MySQL, Sql Server, Sqlite
 » DevOps:       Docker, Git, Linux, Postman.
